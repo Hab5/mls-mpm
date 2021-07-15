@@ -1,0 +1,9 @@
+.vscode
+main_2d.cpp
+main_blaze.cpp
+main_eigen.cpp
+main_glmbak.cpp
+main_glmdumb.cpp
+perf.data
+perf.data.old
+mls-mpm
